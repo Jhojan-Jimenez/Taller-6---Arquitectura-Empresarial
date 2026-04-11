@@ -1,16 +1,14 @@
-# Registro de Trabajo en Clase - Taller 6: Checklist de Cumplimiento Normativo
+# 🗒️ Registro de Trabajo en Clase - Taller 6
 
-## Fecha de la sesión
-9 de abril de 2026
+## 📆 Fecha de la sesión
+21 de Marzo 2026
 
-## Integrantes presentes
-- _(Nombre 1)_
-- _(Nombre 2)_
-- _(Nombre 3)_
+## 👥 Integrantes presentes
+- Jonatan David Vergara Suárez
+- Carlos David Bello Ortiz
+- Jhojan Camilo Jiménez Amaya
 
----
-
-## Actividades realizadas en clase
+## 🧠 Actividades realizadas en clase
 
 Durante la sesión se trabajó sobre el caso base **GobData**, un portal estatal de trámites ciudadanos que maneja datos personales sensibles como números de identificación, historial clínico, antecedentes y certificados digitales.
 
@@ -25,17 +23,6 @@ Durante la sesión se trabajó sobre el caso base **GobData**, un portal estatal
 **Herramientas utilizadas:**
 - Hoja de cálculo CSV con la plantilla del checklist.
 - Documentación de referencia: texto de la Ley 1581, controles del Anexo A de ISO 27001, Circular 002 de 2015 de la SIC.
-
----
-
-## Resultados del checklist GobData
-
-| Nivel de Cumplimiento | Cantidad | Porcentaje |
-|-----------------------|----------|------------|
-| ✅ Cumple             | 10       | 26%        |
-| ⚠️ Parcial            | 19       | 50%        |
-| ❌ No cumple          | 9        | 24%        |
-| **Total**             | **38**   | **100%**   |
 
 ### Brechas críticas identificadas (❌)
 
@@ -58,17 +45,16 @@ Durante la sesión se trabajó sobre el caso base **GobData**, un portal estatal
 - **Mínimo privilegio** (ítem 20): Funcionarios de soporte con acceso a historial clínico sin requerirlo es una violación al principio de necesidad.
 - **Datos en respaldo sin cifrar** (ítem 15): Los backups no cifrados representan un vector de exposición masiva en caso de robo o pérdida de medios.
 
+## 🔁 Tareas definidas para complementar el taller
+
+Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
+
+| Tarea asignada | Responsable | Fecha estimada |
+|----------------|-------------|----------------|
+| Diligenciar checklist del cliente real | Jhojan Jiménez | 07/04 |
+| Redacción del informe     | Jonatan Vergara | 08/04 |
+| Investigación y referencias | Carlos Bello | 09/04 |
+
 ---
 
-## Tareas definidas para complementar el taller
-
-| Tarea asignada                                        | Responsable   | Fecha estimada |
-|-------------------------------------------------------|---------------|----------------|
-| Diligenciar checklist del cliente real                | _(Nombre 1)_  | 13/04/2026     |
-| Redacción del informe técnico con recomendaciones     | _(Nombre 2)_  | 14/04/2026     |
-| Investigación de normativas sectoriales del cliente   | _(Nombre 3)_  | 14/04/2026     |
-| Consolidar referencias bibliográficas y legales       | _(Nombre 1)_  | 15/04/2026     |
-
----
-
-_Este documento resume el trabajo colaborativo realizado durante la sesión del Taller 6 en el curso AREM - Universidad de La Sabana._
+_Este documento resume el trabajo colaborativo realizado durante la sesión del taller X en el curso AREM - Universidad de La Sabana._

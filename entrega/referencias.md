@@ -57,6 +57,9 @@ Taller 6 - Checklist de Cumplimiento Normativo (Normatividad y Protección de Da
 
 17. Corte Constitucional de Colombia. *Sentencia C-748 de 2011 - Revisión de constitucionalidad de la Ley Estatutaria de Protección de Datos Personales (Ley 1581)*. M.P. Jorge Ignacio Pretelt Chaljub. 2011.
 
+
+Fuentes y redacción asistidos por IA: ChatGPT, Abril 2026
+
 ---
 
 _Las referencias de este documento se presentan en formato adaptado de APA 7ma edición. Fecha de consulta de recursos web: abril de 2026._
